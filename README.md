@@ -14,4 +14,4 @@ Bu proje, klasik Pacman oyununun JavaScript, HTML ve CSS kullanılarak geliştir
 •JavaScript (Vanilla JS)
 
 # Nasıl Çalışır
-Sunucuya gerek kalmadan index.html dosyasını herhangi bir tarayıcıdan çalıştırmanız yeterli olacaktır.
+Sunucuya gerek kalmadan `index.html` dosyasını herhangi bir tarayıcıdan çalıştırmanız yeterli olacaktır.
